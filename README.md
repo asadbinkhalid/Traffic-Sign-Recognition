@@ -14,11 +14,38 @@
 - Seaborn
 - imageio
 
+## CNN Model Details
+Following is the summary of the  COnvolutional Neural Network model used for this problem:
+'Model: "sequential"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+conv2d (Conv2D)              (None, 60, 60, 6)         156       
+_________________________________________________________________
+max_pooling2d (MaxPooling2D) (None, 30, 30, 6)         0         
+_________________________________________________________________
+dropout (Dropout)            (None, 30, 30, 6)         0         
+_________________________________________________________________
+conv2d_1 (Conv2D)            (None, 26, 26, 16)        2416      
+_________________________________________________________________
+max_pooling2d_1 (MaxPooling2 (None, 13, 13, 16)        0         
+_________________________________________________________________
+flatten (Flatten)            (None, 2704)              0         
+_________________________________________________________________
+dense (Dense)                (None, 120)               324600    
+_________________________________________________________________
+dense_1 (Dense)              (None, 84)                10164     
+_________________________________________________________________
+dense_2 (Dense)              (None, 43)                3655      
+=================================================================
+Total params: 340,991
+Trainable params: 340,991
+Non-trainable params: 0'
 
 
 ## Dataset
 - GTSRB dataset is used in this project.
-- Download the dataset [Here](https://drive.google.com/drive/folders/1F2F7ZK62CHLIZWoOjEx-2T9OmWb96eDy?usp=sharing) and update dataset folder location in the notebook.
+- Download the dataset [here](https://drive.google.com/drive/folders/1F2F7ZK62CHLIZWoOjEx-2T9OmWb96eDy?usp=sharing) and update dataset folder location in the notebook.
 - Original dataset source: <http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset>
 - The dataset consists of 43 different classes of images.
 
