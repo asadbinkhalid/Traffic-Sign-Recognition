@@ -3,7 +3,7 @@
 Implementation of a Convolutional Neural Network for classification of traffic signs using Keras.
 
 ## Usage
-- Code can be accessed through the provided Jupyter Notebook file.
+- Code can be accessed through the provided Jupyter Notebook [file](https://github.com/asadbinkhalid/Traffic-Sign-Recognition/blob/master/Traffic%20Sign%20Recognition.ipynb).
 - ### Dependencies
 - Keras
 - OpenCV
