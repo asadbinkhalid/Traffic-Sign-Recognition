@@ -1,6 +1,6 @@
 # Traffic Sign Recognition
 
-- Implementation of a Convolutional Neural Network for classification using Keras.
+Implementation of a Convolutional Neural Network for classification using Keras.
 
 ## Usage
 - Code can be accessed through the provided Jupyter Notebook file.
