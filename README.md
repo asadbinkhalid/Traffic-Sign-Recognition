@@ -16,7 +16,7 @@
 
 ## CNN Model Details
 Following is the summary of the  COnvolutional Neural Network model used for this problem:
-'Model: "sequential"
+`Model: "sequential"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -40,7 +40,7 @@ dense_2 (Dense)              (None, 43)                3655
 =================================================================
 Total params: 340,991
 Trainable params: 340,991
-Non-trainable params: 0'
+Non-trainable params: 0`
 
 
 ## Dataset
