@@ -24,7 +24,7 @@ Code can be accessed through the provided Jupyter Notebook [file](https://github
 ![Sample](https://github.com/asadbinkhalid/Traffic-Sign-Recognition/blob/master/Dataset%20Sample.png?raw=true)
 
 ## CNN Model Details
-Following is the summary of the  COnvolutional Neural Network model used for this problem:
+Following is the summary of the Convolutional Neural Network model used for this problem:
 ![Model](https://github.com/asadbinkhalid/Traffic-Sign-Recognition/blob/master/CNN%20Model.png)
 
 ## Prediction Results
