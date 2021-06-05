@@ -4,7 +4,7 @@
 
 ## Usage
 - Code can be accessed through the provided Jupyter Notebook file.
-### Dependencies
+- ### Dependencies
 - Keras
 - OpenCV
 - Matplotlibb
