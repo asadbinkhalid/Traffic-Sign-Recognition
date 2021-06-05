@@ -22,5 +22,8 @@
 - Original dataset source: <http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset>
 - The dataset consists of 43 different classes of images.
 
+### Sample Images  from Dataset
+![Image](https://github.com/asadbinkhalid/Traffic-Sign-Recognition/blob/master/Dataset%20Sample.png?raw=true)
+
 ## Citations
 - J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. _The German Traffic Sign Recognition Benchmark: A multi-class classification competition_. In Proceedings of the IEEE International Joint Conference on Neural Networks, pages 1453–1460. 2011.
