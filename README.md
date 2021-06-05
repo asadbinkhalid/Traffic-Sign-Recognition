@@ -17,15 +17,15 @@ Implementation of a Convolutional Neural Network for classification using Keras.
 ## CNN Model Details
 Following is the summary of the  COnvolutional Neural Network model used for this problem:
 `Model: "sequential"
-**Layer (type)                 Output Shape              Param #**
-conv2d (Conv2D)              (None, 60, 60, 6)         156       
-max_pooling2d (MaxPooling2D) (None, 30, 30, 6)         0         
-dropout (Dropout)            (None, 30, 30, 6)         0         
-conv2d_1 (Conv2D)            (None, 26, 26, 16)        2416      
-max_pooling2d_1 (MaxPooling2 (None, 13, 13, 16)        0         
-flatten (Flatten)            (None, 2704)              0         
-dense (Dense)                (None, 120)               324600    
-dense_1 (Dense)              (None, 84)                10164     
+Layer (type)                 Output Shape              Param #
+conv2d (Conv2D)              (None, 60, 60, 6)         156
+max_pooling2d (MaxPooling2D) (None, 30, 30, 6)         0
+dropout (Dropout)            (None, 30, 30, 6)         0
+conv2d_1 (Conv2D)            (None, 26, 26, 16)        2416
+max_pooling2d_1 (MaxPooling2 (None, 13, 13, 16)        0
+flatten (Flatten)            (None, 2704)              0
+dense (Dense)                (None, 120)               324600
+dense_1 (Dense)              (None, 84)                10164
 dense_2 (Dense)              (None, 43)                3655
 Total params: 340,991
 Trainable params: 340,991
