@@ -28,7 +28,7 @@ Code can be accessed through the provided Jupyter Notebook [file](https://github
 ## CNN Model Details
 Following is the summary of the Convolutional Neural Network model used for this problem:
 <p align="left">
-  <img width="440" alt="a" src="https://github.com/asadbinkhalid/Traffic-Sign-Recognition/blob/master/CNN%20Model.png">
+  <img width="440" height="600" alt="a" src="https://github.com/asadbinkhalid/Traffic-Sign-Recognition/blob/master/CNN%20Model.png">
 </p>
 
 ## Prediction Results
