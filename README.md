@@ -21,15 +21,21 @@ Code can be accessed through the provided Jupyter Notebook [file](https://github
 - The dataset consists of 43 different classes of images.
 
 ### Sample Images from Dataset
-![Sample](https://github.com/asadbinkhalid/Traffic-Sign-Recognition/blob/master/Dataset%20Sample.png?raw=true)
+<p align="center">
+  <img width="440" alt="a" src="https://github.com/asadbinkhalid/Traffic-Sign-Recognition/blob/master/Dataset%20Sample.png?raw=true">
+</p>
 
 ## CNN Model Details
 Following is the summary of the Convolutional Neural Network model used for this problem:
-![Model](https://github.com/asadbinkhalid/Traffic-Sign-Recognition/blob/master/CNN%20Model.png)
+<p align="center">
+  <img width="440" alt="a" src="https://github.com/asadbinkhalid/Traffic-Sign-Recognition/blob/master/CNN%20Model.png">
+</p>
 
 ## Prediction Results
 A random sample from the prediction results of the trained model is below:
-![Prediction](https://github.com/asadbinkhalid/Traffic-Sign-Recognition/blob/master/Prediction.png)
+<p align="center">
+  <img width="440" alt="a" src="https://github.com/asadbinkhalid/Traffic-Sign-Recognition/blob/master/Prediction.png">
+</p>
 
 ## Citations
 - J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. _The German Traffic Sign Recognition Benchmark: A multi-class classification competition_. In Proceedings of the IEEE International Joint Conference on Neural Networks, pages 1453–1460. 2011.
