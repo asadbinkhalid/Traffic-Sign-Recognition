@@ -37,14 +37,13 @@ A random sample from the prediction results of the trained model is below:
   <img width="440" alt="a" src="https://github.com/asadbinkhalid/Traffic-Sign-Recognition/blob/master/Prediction.png">
 </p>
 
-## Authors
-
-👤 **Asad Bin Khalid**
-* Github: [@asadbinkhalid](https://github.com/asadbinkhalid)
-
-👤 **Fatima Junaid**
-* Github: [@faatimaajunaid](https://github.com/faatimaajunaid)
-
 
 ## Citations
 - J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. _The German Traffic Sign Recognition Benchmark: A multi-class classification competition_. In Proceedings of the IEEE International Joint Conference on Neural Networks, pages 1453–1460. 2011.
+
+> ## Authors
+> 👤 **Asad Bin Khalid**
+> * Github: [@asadbinkhalid](https://github.com/asadbinkhalid)
+>
+> 👤 **Fatima Junaid**
+> * Github: [@faatimaajunaid](https://github.com/faatimaajunaid)
